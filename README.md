@@ -13,7 +13,7 @@ link : http://preethu19.github.io/notesdashboard
 
 • A glimpse of the web app:
 
- ![GIF](https://github.com/preethu19/reacttodo/blob/master/react-todo.gif)
+ ![GIF](https://github.com/preethu19/notesdashboard/blob/master/notesapp.gif)
 
 
 ## Installation
